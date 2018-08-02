@@ -1,0 +1,16 @@
+{
+  "name": "全国同步课堂活动接口文档",
+  "version": "0.1.0",
+  "description": "<p>项目地址 ssh://git@122.114.40.73:8850/quanguo/hd_api_dj.git \n 测试地址域名http://mapihd-beta.m.jxtbkt.cn\n 正式测试地址域名http://mapihd-rc.m.jxtbkt.cn \n 正式地址域名http://mapihd.m.jxtbkt.cn",
+  "title": "全国同步课堂活动接口文档",
+  "url": "http://mapihd-beta.m.jxtbkt.cn",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2018-06-08T01:31:28.505Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.6"
+  }
+}
